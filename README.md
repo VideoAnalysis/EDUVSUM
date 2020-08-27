@@ -4,11 +4,12 @@ EDUVSUM is a multimodal neural architecture that utilizes state-of-the-art audio
 
 ## Dataset
 You must download the dataset and put them in "data" folder.
+
 [Dataset v1](https://zenodo.org/record/4002959#.X0bsiBmxXmF)
 
 
 ## Video Annotation Tool (VAT)
-Video Annotation Tool (VAT) is a web based tool to annotate videos datasets to use in machine learning tasks (https://github.com/Junaid112/VideoAnnotationTool ).
+[Video Annotation Tool (VAT)](https://github.com/Junaid112/VideoAnnotationTool) is a web based tool to annotate videos datasets to use in machine learning tasks.
 
 ## Get started (Requirements and Setup)
 Python version >= 3.6
