@@ -2,8 +2,9 @@
 EDUVSUM is a multimodal neural architecture that utilizes state-of-the-art audio, visual and textual features to identify important temporal segments in educational videos.
 
 
-## Dataset (v1) 
-You can download v1 of the dataset from here: (https://zenodo.org/record/4002959#.X0bsiBmxXmF) and put them in "data" folder.
+## Dataset
+You must download the dataset and put them in "data" folder.
+[Dataset v1](https://zenodo.org/record/4002959#.X0bsiBmxXmF)
 
 
 ## Video Annotation Tool (VAT)
