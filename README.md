@@ -3,7 +3,7 @@ EDUVSUM is a multimodal neural architecture that utilizes state-of-the-art audio
 
 
 ## Dataset
-You must download the dataset and put them in "data" folder.
+Download the dataset and put them in "data" folder.
 
 [Dataset v1](https://zenodo.org/record/4002959#.X0bsiBmxXmF)
 
