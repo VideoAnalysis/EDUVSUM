@@ -9,7 +9,7 @@ Python version >= 3.6
 
 ``` bash
 # clone the repository
-git clone 
+git clone git@github.com:Junaid112/EDUVSUM-Educational-Video-Summarization.git
 cd EDUVSUM
 pip install -r requirements.txt
 ```
