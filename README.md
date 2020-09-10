@@ -9,7 +9,7 @@ Download the dataset and put it in "data" folder.
 
 
 ## Video Annotation Tool (VAT)
-[Video Annotation Tool (VAT)](https://github.com/Junaid112/VideoAnnotationTool) is a web based tool to annotate videos datasets to use in machine learning tasks.
+[Video Annotation Tool (VAT)](https://github.com/VideoAnalysis/VideoAnnotationTool) is a web based tool to annotate videos datasets to use in machine learning tasks.
 
 ## Get started (Requirements and Setup)
 Python version >= 3.6
